@@ -46,5 +46,4 @@ The product is not removed from the cart, and the button remains as **Remove** i
 Always (100%)
 
 ### Attachments
-- Screenshot of the issue.
-- Screen recording demonstrating the issue.
+- https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
