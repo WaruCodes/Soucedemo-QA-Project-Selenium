@@ -49,3 +49,16 @@ src
 ## Framework Design
 
 This project uses Selenium WebDriver with TestNG for UI automation. Tests are organized into separate classes based on functionality. REST Assured is used for the optional API testing task.
+
+
+## Note
+
+Given more time, I would further enhance this assignment by:
+
+- Refactoring the automation framework to use the **Page Object Model (POM)** for better maintainability and scalability.
+- Introducing a **Driver Factory** class to improve WebDriver initialization and browser management.
+- Expanding the test suite to include more **positive, negative, and edge-case scenarios**, particularly for the login functionality in Task 2.
+- Separating test data from test logic to improve reusability and maintainability.
+- Performing another complete review of the repository to further refine the code, documentation, and overall project structure before submission.
+
+Although there are opportunities for further improvements, I focused on delivering a clean, functional solution that demonstrates my understanding of QA practices, test automation, and bug reporting within the given timeframe.
