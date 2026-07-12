@@ -8,6 +8,7 @@ LoginFlow.java file automates the SauceDemo login functionality by testing both 
 
 E2EPurchaseFlow.java automates the complete purchase process from login to order confirmation. It includes logging in, adding two products to the cart, verifying the cart badge count, completing the checkout process by entering customer information, validating the order summary, and confirming that the order is successfully placed with the expected confirmation message.
 
+The project includes optional REST API tests implemented using REST Assured against the public JSONPlaceholder API. The tests cover GET, POST, and negative scenarios by retrieving a resource, creating a new resource, and validating the application's response to an invalid request through HTTP status code assertions.
 ## Technologies Used
 
 * Java
