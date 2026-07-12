@@ -58,7 +58,7 @@ public class RESTAPITesting {
     @Test
     public void verifyInvalidPost() {
 
-        RestAssured.baseURI = "https://jsonplaceholder.typicode.com";
+        RestAssured.baseURI = "https://jsonplacholder.typicode.com";
 
         int statusCode = given()
                 .when()
